@@ -1,8 +1,10 @@
 <?php
 /*
 
-lib5 (c)2006 - 2016, a.m.emelianov@gmail.com
-sql.php	v5.4.0
+   lib5 PHP database helper library
+   (c)2006 - 2016, a.m.emelianov@gmail.com
+
+   sql.php	v5.4.0
 
 5.4.0
 - where() and having() expanding
